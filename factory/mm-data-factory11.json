@@ -1,0 +1,9 @@
+{
+	"name": "mm-data-factory11",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2920e0b1-5093-4673-96be-028ada911205",
+		"tenantId": "164c87da-b212-45f8-ad3b-4731b270f6bc"
+	}
+}
